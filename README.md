@@ -21,7 +21,7 @@ Welcome to the Rick and Morty Wiki App! This Flutter application serves as a pla
 To run the Rick and Morty Wiki App on your local machine, follow these steps:
 
 1. Clone this repository to your local environment using the following command:
-git clone https://github.com/your-username/rick-and-morty-wiki.git
+git clone https: [Link](https://github.com/your-username/rick-and-morty-wiki.git)
 
 3. Navigate to the project directory:
 cd rick-and-morty
